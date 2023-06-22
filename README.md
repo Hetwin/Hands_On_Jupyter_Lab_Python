@@ -16,3 +16,5 @@ Lab
 10. Outlook
 11. Rückfrage: Was haltet ihr davon? Würdet ihr so etwas verwenden?
 12. Allgemein Fragen
+
+Alles in einer PowerPoint zusammenfassen.
